@@ -14,3 +14,16 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/confirm', function(){
+    $token = $_GET['token'];
+    return view('secure', ['token'=>$token]);
+});
+Route::get('/termos', function(){
+    return view('termos.cadastro');
+});
+
+
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
