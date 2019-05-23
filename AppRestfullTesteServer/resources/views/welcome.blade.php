@@ -4,7 +4,7 @@
 <header class="bg-gradient" id="home">
     <div class="container mt-5">
         <h1>{{config('app.name')}}</h1>
-        <p class="tagline"> O melhor app de relacionamento do Brasil. Apenas cadastre-se e você estará pronto para começar. </p>
+        <p class="tagline"> Testando a aplicação Se mudou é por que está ok </p>
     </div>
     <div class="img-holder mt-3"><img src="images/iphonex.png" alt="phone" class="img-fluid"></div>
 </header>
