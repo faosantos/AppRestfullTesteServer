@@ -4,9 +4,9 @@
 <header class="bg-gradient" id="home">
     <div class="container mt-5">
         <h1>{{config('app.name')}}</h1>
-        <p class="tagline"> Testando a aplicação Se mudou é por que está ok </p>
+        <p class="tagline"> Servidor de teste da aplicação </p>
     </div>
-    <div class="img-holder mt-3"><img src="images/iphonex.png" alt="phone" class="img-fluid"></div>
+    <div class="img-holder mt-3"><img src="images/ima_mario.jpg" style="width:400px;height:400px;" alt="phone" class="img-fluid"></div>
 </header>
 <!--div class="client-logos my-5">
     <div class="container text-center">
